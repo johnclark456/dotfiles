@@ -11,7 +11,7 @@
 	tool = vimdiff
 [merge]
 	tool = vimdiff
-	conflictstyle= = zdiff3
+	conflictStyle = zdiff3
 [difftool]
 	prompt = false
 [mergetool "vimdiff"]
